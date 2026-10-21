@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Vehicle.h"
 int main() {
-    std::cout << "Базовий клас Vehicle готовий.\n";
+    std::cout << "Class  Vehicle ready\n";
     return 0;
 }
